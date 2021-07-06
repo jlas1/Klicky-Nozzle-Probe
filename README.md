@@ -23,7 +23,9 @@ With the regular klicky installed, do this for preparation:
 - 4x 6x3 magnets
 
 # Instructions
-- print the model
+- print the model (print it as is oriented on the STL, with a brim, it's necessary for the dock)
+<img src="/Photos/STL.png" width="200">
+
 - install the magnets and switch cables as in the original Klicky Probe
 - change the probe offsets to 0 on klipper printer.cfg in the [probe] section, remember to comment the current probe offsets:
   - z_offset: 0
