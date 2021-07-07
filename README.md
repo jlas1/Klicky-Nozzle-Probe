@@ -10,7 +10,7 @@ It is placed between the hotend nozzle tip and the bed, measuring the bed distan
   <img src="/Photos/nozzle_probe_docked.jpg" width="150" />
 </p>
 
-The objective is to prevent the probe offset to in conjunctin with any twisting on the extrusions or rails to make the nozzle too close or too far away even with a bed mesh.
+The objective is to prevent the probe offset to in conjunction with any twisting on the extrusions or rails to make the nozzle too close or too far away even with a bed mesh.
 
 Be advised, this is an experimental procedure and equipment, you can damage your printer or hurt yourself.
 With that said, these procedures are working with my V2.4, and a v1.8 configured with [Klicky Probe](https://github.com/jlas1/Klicky-Probe) and [automatic Z calibration](https://github.com/protoloft/klipper_z_calibration).
