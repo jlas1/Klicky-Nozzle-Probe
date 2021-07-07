@@ -40,6 +40,8 @@ With the regular klicky installed, do this for preparation:
   - M84
   - G28 (with the nozzle probe in place)
 
+# WARNING Do not probe with the hotend on, it will destroy the microswitch
+
 Now the printer will believe that the probe tip is the nozzle tip and will take care to avoid hitting the bed with the probe.
 you can now a Quad Gantry Level or Z Tilt adjust to level the bed as much as possible.
 
